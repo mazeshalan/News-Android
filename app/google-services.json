@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904184243912",
+    "firebase_url": "https://news-android-606c3.firebaseio.com",
+    "project_id": "news-android-606c3",
+    "storage_bucket": "news-android-606c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904184243912:android:df8eb434a55fd707",
+        "android_client_info": {
+          "package_name": "com.mazen.newsandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904184243912-nhlhha6eecvnhr3kbl4ehllhsckmktuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTLnCVpGPLPvHTj0JZYuBMuVAY5uU_Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
